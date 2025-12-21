@@ -21,11 +21,14 @@ A Python Tkinter App which lets users put on bets on virtual horses with a virtu
 -> The user is directed back to home page and results are saved to scorelog.txt
 
 ## Installation
-git clone <repo>
+git clone (repo)
+cd (repo)
 
-pip install tk
-
+### Windows
 python horsebet.py
+
+### MacOS & Linux
+python3 horsebet.py
 
 ## Tech Stack
 -> Python
