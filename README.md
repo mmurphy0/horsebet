@@ -25,6 +25,10 @@ git clone <repo>
 pip install tk
 python horsebet.py
 
+## Tech Stack
+-> Python
+-> Tkinter
+
 ## Future Updates
 -> Update GUI
 -> Add more horses
