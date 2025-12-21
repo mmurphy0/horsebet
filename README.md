@@ -1,7 +1,9 @@
 # horsebet
 
-## A Python Tkinter App which lets users put on bets on virtual horses with a virtual currency. These horses have odds and a random horse is selected each race
+## Description
+A Python Tkinter App which lets users put on bets on virtual horses with a virtual currency. These horses have odds and a random horse is selected each race
 
+## Usage
 -> User enters their age. They cannot enter if their age is under 18
 
 -> User is prompted to login or register an account
@@ -18,7 +20,6 @@
 
 -> user is directed back to home page and results are saved to scorelog.txt
 
-#
-
-Updates may still happen if needed
-
+# Future Updates
+-> Update GUI
+-> Add more horses
